@@ -1,0 +1,3 @@
+Bill's Pizza	Italian	$20
+Nick's Pizza	Italian	$20
+Fork and Nachos	Mexican	$10
