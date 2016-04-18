@@ -1,3 +1,6 @@
 Bill's Pizza	Italian	$20
 Nick's Pizza	Italian	$20
 Fork and Nachos	Mexican	$10
+Taco Bell	Mexican	$6
+Olive Garden	Italian	$14
+Rosatis	Italian	$20
